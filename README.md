@@ -61,4 +61,4 @@ Python 3.x Google Sheets API credentials
 
 #### 🔗 Links
 
-[![Link to Sample Google Sheet](https://img.shields.io/badge/Link%20to%20Sample%20Google%20Sheet-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1tDcDFL8HpBuVMvoDKpG-_YGx--WLhoukacQ8Cdtur5I/edit?usp=sharing)
+[![Link to Sample Google Sheet](https://img.shields.io/badge/Link%20to%20Sample%20Google%20Sheet-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1c_eXPXtE21FlCAR0CcKgGjbUJ8HjaafnOs967pqJ_KQ/edit?usp=sharing).
