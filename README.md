@@ -19,7 +19,7 @@ Enter Keywords: Add your keywords to a Google Sheet.
 
 Generate Titles: The bot pulls in keywords, runs them through ChatGPT, and returns engaging, optimized pin titles.
 
-Save to Google Sheets: The results are added back to your sheet for easy access and editing.
+Save to .csv file inside the projects/Keto folder: The results are stored as a .csv file in the specified folder for easy access and editing.
 
 ## Setup Guide 🛠️
 
